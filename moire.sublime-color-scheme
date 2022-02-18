@@ -1,0 +1,71 @@
+{
+    "name": "Moire",
+    "rules": [
+        {
+            "background": "#FFFFFF",
+            "caret": "#000088",
+            "foreground": "#444444",
+            "invisibles": "#DDDDDD",
+            "lineHighlight": "#EEEEEE",
+            "selection": "#EEEEEE",
+        },
+        {
+            "scope": "comment",
+            "foreground": "#008800",
+            "fontStyle": "",
+        },
+        {
+            "scope": "markup.raw",
+            "foreground": "#880000",
+            "fontStyle": "",
+        },
+        {
+            "scope": "keyword",
+            "foreground": "#8800FF",
+            "fontStyle": "",
+        },
+        {
+            "scope": "keyword.control",
+            "foreground": "#000088",
+            "fontStyle": "",
+        },
+        {
+            "scope": "markup.link",
+            "foreground": "#0000FF",
+            "fontStyle": "underline",
+        },
+        {
+            "scope": "markup.done",
+            "foreground": "#AACCAA",
+            "fontStyle": "",
+        },
+        {
+            "scope": "punctuation.definition.argument",
+            "foreground": "#CCCCCC",
+            "fontStyle": "",
+        },
+        {
+            "scope": "markup.italic",
+            "foreground": "#444444",
+            "fontStyle": "italic",
+        },
+        {
+            "scope": "markup.bold",
+            "foreground": "#444444",
+            "fontStyle": "bold",
+        },
+        {
+            "scope": "markup.underline",
+            "foreground": "#444444",
+            "fontStyle": "underline",
+        },
+        {
+            "scope": "markup.heading",
+            "foreground": "#000000",
+            "fontStyle": "bold",
+        },
+    ],
+    "uuid": "0056f3c5-70e2-48a6-9005-1b1c12e40bb0",
+    "colorSpaceName": "sRGB",
+    "semanticClass": "theme.light.moire",
+}
